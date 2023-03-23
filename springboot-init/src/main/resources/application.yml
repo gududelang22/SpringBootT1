@@ -1,0 +1,12 @@
+name: t
+
+person:
+  name: test
+  age: 22
+  address:
+    - beijing
+    - shanghai
+    - dongying
+
+server:
+  port: 8082
